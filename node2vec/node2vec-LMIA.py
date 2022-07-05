@@ -234,7 +234,7 @@ for sed in seds:
         g_train = nx.from_scipy_sparse_matrix(
             adj_train)  # new graph object with only non-hidden edges, keep all the original nodes
 
-        dp=5 ###dp=0:original, dp=1:differential,
+        dp=0 ###dp=0:original, dp=1:differential, dp=5:adversarial
         sigma=48
         if dp==1:
             F = 'n2v-'+str(ego_user)+str(dp)+str(sigma)+str(sed)
