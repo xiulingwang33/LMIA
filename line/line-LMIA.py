@@ -185,7 +185,7 @@ for sed in seds:
                 g_train1[node][nbr]['weight'] = 1
 
         ord = 's'### s: second order proximity, f: first order proximiry
-        dp = 5 ### 0: original, 5: differential
+        dp=0 ###dp=0:original, dp=1:differential, dp=5:adversarial
         sigma = 4 # noise scale
         if dp == 1:
             F = 'dot-line-' + str(ego_user) + '-' + str(dp) + '-' + str(sigma)+ord+str(sed)
