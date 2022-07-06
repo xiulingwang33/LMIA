@@ -2,12 +2,6 @@
 
 This is the implementation for our Link-level MIA, which has been submitted to ACSAC 2022
 
-## Datasets
-
-The original datasets we used in the paper can be download here:
-
-- https://drive.google.com/drive/folders/1EY-1TbHCUcSkxmKTJolYBBmC5OGrrvNQ?usp=sharing
-
 ## NRL model (target model)
 
 The original implemenations of NRL models we used in the paper can be found here:
