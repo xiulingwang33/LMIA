@@ -1,6 +1,6 @@
 # LMIA
 
-This is the implementation for our Link-level MIA, which has been submitted to ACSAC 2022
+This is the implementation for our Link-level MIA, which has been submitted to ACSAC 2023
 
 ## NRL model (target model)
 
@@ -12,6 +12,8 @@ The original implemenations of NRL models we used in the paper can be found here
 
 - LINE: https://github.com/snowkylin/line
 
+- GAE: https://github.com/DaehanKim/vgae_pytorch
+
 ## For each NRL, run
 
     python deepwalk-LMIA.py
@@ -19,6 +21,8 @@ The original implemenations of NRL models we used in the paper can be found here
     python node2vec-LMIA.py
 
     python line-LMIA.py
+    
+    python gae-LMIA.py
 
 
 
