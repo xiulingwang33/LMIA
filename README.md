@@ -4,7 +4,7 @@ This is the implementation for our Link-level MIA, which has been submitted to A
 
 ## NRL model (target model)
 
-The original implemenations of NRL models we used in the paper can be found here:
+The original implemenations of GRL models we used in the paper can be found here:
 
 - Deepwalk: https://github.com/phanein/deepwalk
 
