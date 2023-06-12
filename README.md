@@ -14,7 +14,7 @@ The original implemenations of GRL models we used in the paper can be found here
 
 - GAE: https://github.com/DaehanKim/vgae_pytorch
 
-## For each NRL, run
+## For each GRL, run
 
     python deepwalk-LMIA.py
     
