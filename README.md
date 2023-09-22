@@ -1,6 +1,6 @@
 # LMIA
 
-This is the implementation for our Link-level MIA, which has been submitted to ACSAC 2023
+This is the implementation for our Link-level MIA, which has been accepted by The Annual Computer Security Applications Conference (ACSAC) 2023.
 
 ## NRL model (target model)
 
